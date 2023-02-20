@@ -1,4 +1,6 @@
 {
   "name": "@velo/bind",
+  "version": "1.0.0",
+  "description": "A simple binding library for Velo",
   "packageManager": "yarn@3.2.1"
 }

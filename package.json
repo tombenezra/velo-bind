@@ -2,5 +2,9 @@
   "name": "@velo/bind",
   "version": "1.0.0",
   "description": "A simple binding library for Velo",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
